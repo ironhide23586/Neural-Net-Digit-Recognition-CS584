@@ -1,4 +1,4 @@
-# Neural-Net-Digit-Recognition-CS584
+# Neural-Net-Digit-Recognition
 
 Contains code implementing a Neural Network to recognize Handwritten digits on the MNIST dataset.
 
